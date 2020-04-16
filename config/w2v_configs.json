@@ -1,0 +1,62 @@
+[
+    {
+        "batch_size": 1024,
+        "ckpt_root": "experiments",
+        "epochs": 50,
+        "experiment_tag": "lr",
+        "id": "2190jz3y",
+        "lr": 0.0001,
+        "model": "w2v",
+        "w2v_embedding_dim": 64
+    },
+    {
+        "batch_size": 1024,
+        "ckpt_root": "experiments",
+        "epochs": 50,
+        "experiment_tag": "lr",
+        "id": "4d0v8ivl",
+        "lr": 0.0005,
+        "model": "w2v",
+        "w2v_embedding_dim": 64
+    },
+    {
+        "batch_size": 1024,
+        "ckpt_root": "experiments",
+        "epochs": 50,
+        "experiment_tag": "lr",
+        "id": "283l0qvb",
+        "lr": 0.001,
+        "model": "w2v",
+        "w2v_embedding_dim": 64
+    },
+    {
+        "batch_size": 1024,
+        "ckpt_root": "experiments",
+        "epochs": 50,
+        "experiment_tag": "lr",
+        "id": "12uq5l7v",
+        "lr": 0.005,
+        "model": "w2v",
+        "w2v_embedding_dim": 64
+    },
+    {
+        "batch_size": 1024,
+        "ckpt_root": "experiments",
+        "epochs": 50,
+        "experiment_tag": "lr",
+        "id": "2gennbqb",
+        "lr": 0.01,
+        "model": "w2v",
+        "w2v_embedding_dim": 64
+    },
+    {
+        "batch_size": 1024,
+        "ckpt_root": "experiments",
+        "epochs": 50,
+        "experiment_tag": "lr",
+        "id": "tjhyi7i1",
+        "lr": 0.1,
+        "model": "w2v",
+        "w2v_embedding_dim": 64
+    }
+]
